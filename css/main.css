@@ -64,8 +64,6 @@
     background-color: #3c617a;
 }
 .card{
-    /* background-color: blue; */
-    /* color: black; */
     border: none;
     margin-top: 20px;
     margin-bottom: 10px;
@@ -134,10 +132,11 @@ border-top-left-radius: 0;
     font-size: 15px;
     border-radius: 50%;
     border: 1px solid lightgray;
-    height: 15px;
-    width: 15px;
-    /* border-top-right-radius: 40px;
-    border-top-left-radius: 40px; */
+    height: 25px;
+    width: 20px;
+    line-height: 30px;
+    padding: 0 5px 5px 5px;
+    margin-left: 10px;
 }
 .butt button{
     border: 1px solid gray;

@@ -23,72 +23,73 @@
     border-radius: 50%;
     margin: 20px 0 0 0;
 }
-/* .pre-head .card{
-    margin: 0;
-} */
 .section{
     padding: 40px;
-    background-color: lightgrey;
+    background-color: #efefef;
 }
 .content{
     margin-top: 20px;
 }
-.content h5{
+.content1{
+    margin-top: 20px;
+    background-color: white;
+}
+.content1 h5{
     color: gray;
-    /* margin-left: 20px; */
     font-size: 17px;
 }
 .content h6{
     color: gray;
 }
-.content span{
+.content1 span{
     color: gray;
     font-size: 15px;
-    /* margin: 0 auto; */
 }
-.content p{
+.content1 p{
     color: gray;
     font-size: 10px;
     font-weight: 300;
 }
-.content i{
+.content1 i{
     font-size: 20px;
     padding-left: 15px;
     margin: 0 auto;
 }
 .header{
     margin-top: 0;
-    background-color: darkslateblue;
+    background-color: #3c617a;
     height: 108px;
 }
+.head-row{
+    background-color: #3c617a;
+}
 .card{
-    background-color: blue;
-    color: black;
+    /* background-color: blue; */
+    /* color: black; */
     border: none;
     margin-top: 20px;
     margin-bottom: 10px;
 }
-
+.card .new{
+    background-color: #00b9ff;
+    color: white;
+    border: none;
+}
 .card img{
     height: 50px;
     width: 80px;
     border-radius: 50%;
 }
 .card i{
-    /* border: black 2px solid; */
-    /* border-radius: 50%; */
     font-size: 30px;
     padding-top: 45px;
     line-height: 20px;
 }
 .header .card{
-    background-color: darkslateblue;
+    background-color: #3c617a;
     color: white;
     border: none;
 }
-/* .card-body{
-    background-color: blue;
-} */
 .header i{
     font-size: 30px;
     border: 1px solid white;
@@ -106,37 +107,39 @@
 .shrank{
     border: 2px white solid;
     margin-left: 0;
-    /* border-radius: ; */
-
 }
 .toasts{
     margin-bottom: 0;
     margin-left: 12px;
 }
 .nav-tabs li{
-    border: white 1px solid;
-border-top-right-radius: 30%;
-border-top-left-radius: 30%;
+border: none;
+border-top-right-radius: 40px;
+border-top-left-radius: 40px;
+background-color: lightgray;
 }
-.dark {
-    background-color: white;
+.nav-tabs .dark {
+background-color: white;
+border: none;
+border-top-right-radius: 40px;
+border-top-left-radius: 0;
+}
+.new{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px; 
 }
 .leads i{
     background-color: gray;
     color: white;
     font-size: 15px;
     border-radius: 50%;
-    /* line-height: 40px; */
     border: 1px solid lightgray;
-    border-top-right-radius: 30%;
-    border-top-left-radius: 30%;
+    height: 15px;
+    width: 15px;
+    /* border-top-right-radius: 40px;
+    border-top-left-radius: 40px; */
 }
-/* .group i{
-font-size: 45px;
-margin: 0;
-} */
 .butt button{
-    /* margin: 0 auto; */
     border: 1px solid gray;
     border-radius: 20px;
     padding: 5px 30px;
@@ -151,7 +154,8 @@ margin: 0;
     margin-right: 20px;
 }
 .line{
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid lightgray;
+    padding-top: 15px;
 }
 .line img{
     height: 45px;
@@ -164,7 +168,6 @@ margin: 0;
     background-color: #bbb;
     border-radius: 50%;
     display: inline-block;
-    /* background-color: red; */
   }
   .status{
       font-size: 30px;

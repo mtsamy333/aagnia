@@ -1,0 +1,172 @@
+.sub-head i{
+    font-size: 25px;
+}
+.sub-head{
+    background-color: white;
+}
+.sub-head button{
+    border: white 1px solid;
+    border-radius: 20px;
+    padding: 0 15px 10px 10px;
+}
+.sub-head input{
+    border-radius: 20px;
+    padding: 5px 15px;
+}
+.pre-head{
+    margin: 20px 0 0 0;
+}
+.pre-head i{
+    font-size: 30px;
+    border: 1px solid gray;
+    padding: 0 10px 10px 10px;
+    border-radius: 50%;
+    margin: 20px 0 0 0;
+}
+/* .pre-head .card{
+    margin: 0;
+} */
+.section{
+    padding: 40px;
+    background-color: lightgrey;
+}
+.content{
+    margin-top: 20px;
+}
+.content h5{
+    color: gray;
+    /* margin-left: 20px; */
+    font-size: 17px;
+}
+.content h6{
+    color: gray;
+}
+.content span{
+    color: gray;
+    font-size: 15px;
+    /* margin: 0 auto; */
+}
+.content p{
+    color: gray;
+    font-size: 10px;
+    font-weight: 300;
+}
+.content i{
+    font-size: 20px;
+    padding-left: 15px;
+    margin: 0 auto;
+}
+.header{
+    margin-top: 0;
+    background-color: darkslateblue;
+    height: 108px;
+}
+.card{
+    background-color: blue;
+    color: black;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.card img{
+    height: 50px;
+    width: 80px;
+    border-radius: 50%;
+}
+.card i{
+    /* border: black 2px solid; */
+    /* border-radius: 50%; */
+    font-size: 30px;
+    padding-top: 45px;
+    line-height: 20px;
+}
+.header .card{
+    background-color: darkslateblue;
+    color: white;
+    border: none;
+}
+/* .card-body{
+    background-color: blue;
+} */
+.header i{
+    font-size: 30px;
+    border: 1px solid white;
+    padding: 0 10px 10px 10px;
+    border-radius: 50%;
+    margin: 20px 0 0 0;
+}
+
+.head3 i{
+    font-size: 30px;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 50%;
+}
+.shrank{
+    border: 2px white solid;
+    margin-left: 0;
+    /* border-radius: ; */
+
+}
+.toasts{
+    margin-bottom: 0;
+    margin-left: 12px;
+}
+.nav-tabs li{
+    border: white 1px solid;
+border-top-right-radius: 30%;
+border-top-left-radius: 30%;
+}
+.dark {
+    background-color: white;
+}
+.leads i{
+    background-color: gray;
+    color: white;
+    font-size: 15px;
+    border-radius: 50%;
+    /* line-height: 40px; */
+    border: 1px solid lightgray;
+    border-top-right-radius: 30%;
+    border-top-left-radius: 30%;
+}
+/* .group i{
+font-size: 45px;
+margin: 0;
+} */
+.butt button{
+    /* margin: 0 auto; */
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 5px 30px;
+    margin: 15px 0;
+}
+.back{
+    background-color: darkturquoise;
+    height: 30px;
+}
+.book{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.line{
+    border-bottom: 1px solid white;
+}
+.line img{
+    height: 45px;
+    width: 50px;
+    border-radius: 50%;
+}
+.dot {
+    height: 20px;
+    width: 20px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    /* background-color: red; */
+  }
+  .status{
+      font-size: 30px;
+      font-weight: 500;
+  }
